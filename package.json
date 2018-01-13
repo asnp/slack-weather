@@ -1,0 +1,6 @@
+{
+	"name": "slack-weather",
+	"scripts": {
+		"start": "micro index.js"
+	}
+}
